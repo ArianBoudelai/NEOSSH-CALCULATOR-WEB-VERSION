@@ -5,7 +5,7 @@ You might ask yourself what is NEOSSH?
 
 It is a layered digital system built around a futuristic cyberpunk interface, designed to feel more like an experience than a traditional application.
 
-At its core, NEOSSH represents a collection of interconnected digital environments — each one serving a different purpose, yet all sharing the same visual identity, design language, and underlying structure.
+At its core, NEOSSH represents a collection of interconnected digital environments each one serving a different purpose, yet all sharing the same visual identity, design language, and underlying structure.
 
 What you see today is only a small fragment of a much larger system.
 
