@@ -15,7 +15,7 @@ However, the real concept behind NEOSSH goes beyond what is currently visible. I
 
 The design philosophy is centered around immersion, abstraction, and controlled exposure of functionality. Instead of revealing everything at once, NEOSSH gradually expands over time, unlocking new layers of interaction and capability.
 
-Everything is designed with a futuristic aesthetic in mind — neon lighting, dark environments, and digital UI elements that simulate a living system rather than a static website.
+Everything is designed with a futuristic aesthetic in mind neon lighting, dark environments, and digital UI elements that simulate a living system rather than a static website.
 
 NEOSSH is still in its early stage.
 
